@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604153555 source:c:\users\home\documents\covid19\covid 19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
